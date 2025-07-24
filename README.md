@@ -62,7 +62,7 @@ You can choose your preferred service (e.g., [Netlify](https://www.netlify.com/)
 
     ```json
     {
-        "homepage": "https://yourusername.github.io/your-repo-name",
+        "homepage": "https://asqolani-usr.github.io/asqlniazzi_/",
         "scripts": {
             "predeploy": "npm run build",
             "deploy": "gh-pages -d build",
