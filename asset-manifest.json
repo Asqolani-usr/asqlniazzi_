@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Asqolani-usr/asqlniazzi_.git/static/css/main.eda8ea5c.css",
+    "main.js": "/Asqolani-usr/asqlniazzi_.git/static/js/main.925132ac.js",
+    "static/js/453.b05d8aa5.chunk.js": "/Asqolani-usr/asqlniazzi_.git/static/js/453.b05d8aa5.chunk.js",
+    "static/media/mock04.png": "/Asqolani-usr/asqlniazzi_.git/static/media/mock04.a4d11873c5401345d9ae.png",
+    "static/media/mock01.png": "/Asqolani-usr/asqlniazzi_.git/static/media/mock01.ee94e66eac80cc840f7a.png",
+    "static/media/mock02.png": "/Asqolani-usr/asqlniazzi_.git/static/media/mock02.f6dab54604cb15729cdc.png",
+    "static/media/bg-light.png": "/Asqolani-usr/asqlniazzi_.git/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/Asqolani-usr/asqlniazzi_.git/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/mock03.png": "/Asqolani-usr/asqlniazzi_.git/static/media/mock03.770a6197c76f55ff7b40.png",
+    "index.html": "/Asqolani-usr/asqlniazzi_.git/index.html",
+    "main.eda8ea5c.css.map": "/Asqolani-usr/asqlniazzi_.git/static/css/main.eda8ea5c.css.map",
+    "main.925132ac.js.map": "/Asqolani-usr/asqlniazzi_.git/static/js/main.925132ac.js.map",
+    "453.b05d8aa5.chunk.js.map": "/Asqolani-usr/asqlniazzi_.git/static/js/453.b05d8aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eda8ea5c.css",
+    "static/js/main.925132ac.js"
+  ]
+}
